@@ -1,9 +1,5 @@
 # Hi 👋, I'm GINA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yygina&label=Profile views&color=0e75b6&style=flat" alt="yygina" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yygina" alt="yygina" /></a> </p>
-
 - 📫 How to reach me **ginaaa.1725@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
